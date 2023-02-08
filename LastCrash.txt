@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/m/.local/lib/python3.8/site-packages/pyqtgraph/graphicsItems/GraphicsWidget.py", line 48, in boundingRect
+    def boundingRect(self):
+KeyboardInterrupt
